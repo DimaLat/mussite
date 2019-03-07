@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
+## The XxX
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
@@ -21,12 +21,12 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Название проекта: 
 The XxX
-Информация по действиям:
--composer self-update
--cd domains
--git clone http://github.com/
--cd music
--создать файл .env по примеру .env.example
--composer install
--создайл базу с именем music и импортировать файл music.sql
--php artisan migrate
+#Информация по установке:
+- composer self-update
+- cd domains
+- git clone http://github.com/
+- cd music
+- создать файл .env по примеру .env.example
+- composer install
+- создайл базу с именем music и импортировать файл music.sql
+- php artisan migrate
