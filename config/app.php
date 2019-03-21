@@ -165,7 +165,7 @@ return [
         /*
          * Package Service Providers...
          */
-
+        Laraveldaily\Quickadmin\QuickadminServiceProvider::class,
         /*
          * Application Service Providers...
          */
