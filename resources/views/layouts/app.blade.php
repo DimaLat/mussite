@@ -7,7 +7,8 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>The XxX</title>
+    <title>GOLF
+    </title>
 
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
@@ -32,12 +33,12 @@
                 </button>
 
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                   
+
                     <ul class="navbar-nav mr-auto">
 
                     </ul>
 
-                    
+
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item">
                                 <a class="nav-link" href="{{ asset('contacts') }}">{{ __('Контакты') }}</a>
