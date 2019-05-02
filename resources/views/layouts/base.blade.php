@@ -23,7 +23,7 @@
     <!-- Header -->
     <header class="header">
         <div class="header_content d-flex flex-row align-items-center justify-content-center">
-            <div class="logo"><a href="#">GOLF</a></div>
+            <div class="logo"><a href="{{asset("/")}}">GOLF</a></div>
             <div class="log_reg">
                 <ul class="d-flex flex-row align-items-start justify-content-start">
                     @guest
@@ -58,7 +58,7 @@
             </div>
             <nav class="main_nav">
                 <ul class="d-flex flex-row align-items-start justify-content-start">
-                    <li class="active"><a href="index.html">Home</a></li>
+                    <li><a href="{{asset("albom")}}">Home</a></li>
                     <li><a href="{{asset("company")}}">About us</a></li>
                     <li><a href="{{asset("music")}}">Music</a></li>
                     <li><a href="{{asset("news")}}">News</a></li>
@@ -95,46 +95,27 @@
                 <div class="footer_list">
                     <div class="footer_list_title">Useful Links</div>
                     <ul>
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="about.html">About us</a></li>
-                        <li><a href="#">Testimonials</a></li>
-                        <li><a href="#">Music</a></li>
-                        <li><a href="blog.html">News</a></li>
+                        <li><a href="{{asset("Home")}}">Home</a></li>
+                        <li><a href="{{asset("Company")}}">About us</a></li>
+                        <li><a href="{{asset("music")}}">Music</a></li>
+
                     </ul>
                 </div>
 
-                <!-- Mixtape -->
+                <!-- GOLF -->
                 <div class="footer_list">
                     <div class="footer_list_title">GOLF</div>
                     <ul>
-                        <li><a href="#">Music</a></li>
-                        <li><a href="#">PR & Marketing</a></li>
-                        <li><a href="#">Contact</a></li>
-                        <li><a href="#">About us</a></li>
-                        <li><a href="#">Testimonials</a></li>
+
+                        <li><a href="{{asset("contacts")}}">Contact</a></li>
+                        <li><a href="{{asset("news")}}">News</a></li>
                     </ul>
                 </div>
 
-                <!-- Connect -->
-                <div class="footer_list">
-                    <div class="footer_list_title">Connect</div>
-                    <ul>
-                        <li><a href="#">Returns</a></li>
-                        <li><a href="#">Shippings</a></li>
-                        <li><a href="#">Jobs</a></li>
-                        <li><a href="#">Social Media</a></li>
-                        <li><a href="#">Soundcloud</a></li>
-                    </ul>
-                </div>
 
             </div>
         </div>
-        <div class="copyright_bar">
-			<span><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-</span>
-        </div>
+
     </footer>
 </div>
 

@@ -97,9 +97,9 @@ $(document).ready(function()
 			$("#jplayer_1").jPlayer({
 				ready: function () {
 					$(this).jPlayer("setMedia", {
-						title:"Better Days",
-							artist:"Bensound",
-							mp3:"praisethelord.mp3"
+						title:"Changes",
+							artist:"A$AP Rocky",
+							mp3:"changes.mp3"
 					});
 				},
 				play: function() { // To avoid multiple jPlayers playing together.

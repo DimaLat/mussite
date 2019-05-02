@@ -137,36 +137,36 @@ $(document).ready(function()
 					title:"Praise the lord",
 					artist:"A$AP Rocky",
 					mp3:"praisethelord.mp3",
-					duration:"2.33"
+					duration:"3.25"
 				},
 				{
-					title:"Dubstep",
-					artist:"Bensound",
-					mp3:"files/praisethelord.mp3",
-					duration:"2.04"
+					title:"ASAP Forever",
+					artist:"A$AP Rocky",
+					mp3:"files/forever.mp3",
+					duration:"3.53"
 				},
 				{
-					title:"Sunny",
-					artist:"Bensound",
-					mp3:"files/praisethelord.mp3",
+					title:"Purity",
+					artist:"A$AP Rocky",
+					mp3:"files/purity.mp3",
 					duration:"2.20"
 				},
 				{
-					title:"Better Days",
-					artist:"Bensound",
-					mp3:"files/praisethelord.mp3",
+					title:"Changes",
+					artist:"A$AP Rocky",
+					mp3:"files/changes.mp3",
 					duration:"2.33"
 				},
 				{
-					title:"Dubstep",
-					artist:"Bensound",
-					mp3:"files/praisethelord.mp3",
+					title:"Hun43rd",
+					artist:"A$AP Rocky",
+					mp3:"files/hun.mp3",
 					duration:"2.04"
 				},
 				{
-					title:"Sunny",
-					artist:"Bensound",
-					mp3:"files/praisethelord.mp3",
+					title:"Gunz n Butter",
+					artist:"A$AP Rocky",
+					mp3:"files/gunz.mp3",
 					duration:"2.20"
 				}
 			];
@@ -282,9 +282,9 @@ $(document).ready(function()
 			$("#jplayer_2").jPlayer({
 		ready: function () {
 			$(this).jPlayer("setMedia", {
-				title:"Better Days",
-					artist:"Bensound",
-					mp3:"files/bensound-betterdays.mp3"
+				title:"Ric Flair Drip",
+					artist:"Metro Boomin",
+					mp3:"files/ric.mp3"
 			});
 		},
 		play: function() { // To avoid multiple jPlayers playing together.
@@ -307,7 +307,8 @@ $(document).ready(function()
 		errorAlerts: false,
 		warningAlerts: false
 	});
-		}	
-	}
+        }
+    }
 
 });
+

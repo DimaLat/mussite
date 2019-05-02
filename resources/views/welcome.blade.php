@@ -11,13 +11,11 @@
 
                 <!-- Slide -->
                 <div class="owl-item">
-                    <div class="background_image" style="background-image:url(images/index.jpg)"></div>
+                    <div class="background_image" style="background-image:url(images/tyler.gif)"></div>
                     <div class="home_container">
                         <div class="home_container_inner d-flex flex-column align-items-center justify-content-center">
                             <div class="home_content text-center">
-                                <div class="home_subtitle">New single release</div>
-                                <div class="home_title"><h1>GOLF - is your choice.</h1></div>
-                                <div class="home_link"><a href="#">Listen on Soundcloud</a></div>
+
                             </div>
                         </div>
                     </div>
@@ -25,13 +23,11 @@
 
                 <!-- Slide -->
                 <div class="owl-item">
-                    <div class="background_image" style="background-image:url(images/index.jpg)"></div>
+                    <div class="background_image" style="background-image:url(images/kanye.gif)"></div>
                     <div class="home_container">
                         <div class="home_container_inner d-flex flex-column align-items-center justify-content-center">
                             <div class="home_content text-center">
-                                <div class="home_subtitle">New single release</div>
-                                <div class="home_title"><h1>GOLF - is your choice.</h1></div>
-                                <div class="home_link"><a href="#">Listen on Soundcloud</a></div>
+
                             </div>
                         </div>
                     </div>
@@ -39,13 +35,13 @@
 
                 <!-- Slide -->
                 <div class="owl-item">
-                    <div class="background_image" style="background-image:url(images/index.jpg)"></div>
+                    <div class="background_image" style="background-image:url(images/rocky.gif)"></div>
                     <div class="home_container">
                         <div class="home_container_inner d-flex flex-column align-items-center justify-content-center">
                             <div class="home_content text-center">
-                                <div class="home_subtitle">New single release</div>
-                                <div class="home_title"><h1>GOLF - is your choice.</h1></div>
-                                <div class="home_link"><a href="#">Listen on Soundcloud</a></div>
+
+
+
                             </div>
                         </div>
                     </div>
@@ -63,7 +59,7 @@
             <div class="row">
                 <div class="col-lg-6 offset-lg-6">
                     <div class="section_title_container">
-                        <div class="section_subtitle">Events</div>
+
                         <div class="section_title"><h1>Featured Album</h1></div>
                     </div>
                 </div>
@@ -74,7 +70,7 @@
                 <div class="col-md-6">
                     <div class="featured_album_image">
                         <div class="image_overlay"></div>
-                        <div class="background_image" style="background-image:url(images/logo.jpg)"></div>
+                        <div class="background_image" style="background-image:url(images/rakim.jpg)"></div>
                         <!-- <img src="images/featured_album.jpg" alt=""> -->
                     </div>
                 </div>
@@ -85,10 +81,10 @@
                         <div class="featured_album_player">
                             <div class="featured_album_title_bar d-flex flex-row align-items-center justify-content-start">
                                 <div class="featured_album_title_container">
-                                    <div class="featured_album_artist">Metro Boomin</div>
-                                    <div class="featured_album_title">Love is all Around</div>
+                                    <div class="featured_album_artist">Asap Rocky</div>
+                                    <div class="featured_album_title">Testing</div>
                                 </div>
-                                <div class="featured_album_link ml-auto"><a href="#">buy it on itunes</a></div>
+                                <div class="featured_album_link ml-auto"><a href="https://soundcloud.com/asvpxrocky">listen on soundcloud</a></div>
                             </div>
                             <div id="jplayer_1" class="jp-jplayer"></div>
                             <div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
@@ -164,30 +160,30 @@
                             <li class="d-flex flex-row align-items-center justify-content-start">
                                 <div><div class="show_date">18/07</div></div>
                                 <div class="show_info d-flex flex-md-row flex-column align-items-md-center align-items-start justify-content-md-start justify-content-center">
-                                    <div class="show_name"><a href="#">VIVA Braslav Festival</a></div>
+                                    <div class="show_name"><a href="https://vivabraslav.by/viva-braslav-2019/">VIVA Braslav Festival</a></div>
                                     <div class="show_location">Braslav</div>
                                 </div>
-                                <div class="ml-auto"><div class="show_shop trans_200"><a href="#">Buy Tickets</a></div></div>
+                                <div class="ml-auto"><div class="show_shop trans_200"><a href="https://vivabraslav.by/bileti/">Buy Tickets</a></div></div>
                             </li>
 
                             <!-- Show -->
                             <li class="d-flex flex-row align-items-center justify-content-start">
                                 <div><div class="show_date">20/07</div></div>
                                 <div class="show_info d-flex flex-md-row flex-column align-items-md-center align-items-start justify-content-md-start justify-content-center">
-                                    <div class="show_name"><a href="#">Rock za bobrov Festival</a></div>
+                                    <div class="show_name"><a href="https://rock.bobrov.by/">Rock za bobrov Festival</a></div>
                                     <div class="show_location">Minsk</div>
                                 </div>
-                                <div class="ml-auto"><div class="show_shop trans_200"><a href="#">Buy Tickets</a></div></div>
+                                <div class="ml-auto"><div class="show_shop trans_200"><a href="https://rock.bobrov.by/bilety/">Buy Tickets</a></div></div>
                             </li>
 
                             <!-- Show -->
                             <li class="d-flex flex-row align-items-center justify-content-start">
                                 <div><div class="show_date">03/08</div></div>
                                 <div class="show_info d-flex flex-md-row flex-column align-items-md-center align-items-start justify-content-md-start justify-content-center">
-                                    <div class="show_name"><a href="#">Lidbear Festival</a></div>
+                                    <div class="show_name"><a href="http://lidbeer.by/">Lidbear Festival</a></div>
                                     <div class="show_location">Lida</div>
                                 </div>
-                                <div class="ml-auto"><div class="show_shop trans_200"><a href="#">Buy Tickets</a></div></div>
+                                <div class="ml-auto"><div class="show_shop trans_200"><a href="https://afisha.tut.by/concert-grodno/festival-lidbeer/?crnd=86863">Buy Tickets</a></div></div>
                             </li>
                         </ul>
                     </div>
@@ -197,7 +193,7 @@
                 <div class="col-lg-4 order-lg-2 order-1">
                     <div class="shows_image">
                         <div class="image_overlay"></div>
-                        <img src="images/shows.jpg" alt="https://unsplash.com/@anthonydelanoix">
+                        <img src="images/shows.jpg">
                     </div>
                 </div>
 
@@ -222,14 +218,14 @@
                 <div class="col-lg-7 offset-lg-1">
                     <div class="artist_content">
                         <div class="section_title_container">
-                            <div class="section_subtitle">Events</div>
-                            <div class="section_title"><h1>The Artist</h1></div>
+                            <div class="section_subtitle">The Artist</div>
+                            <div class="section_title"><h1>Metro Boomin</h1></div>
                         </div>
                         <div class="artist_text">
-                            <p> In vitae nisi aliquam, scelerisque leo a, volutpat sem. Vivamus rutrum dui fermentum eros hendrerit, id lobortis leo volutpat. Maecenas sollicitudin est in libero pretium interdum. Nullam volutpat dui sem, ac congue purus luctus nec. Curabitur luctus luctus erat, sit amet facilisis quam congue quis. Quisque ornare luctus erat id dignissim. Nullam ac nunc quis ex porttitor luctus.</p>
-                            <p>Integer sed facilisis eros. In iaculis rhoncus velit in malesuada. In hac habitasse platea dictumst. Fusce erat ex, consectetur sit amet ornare suscipit, porta et erat. Donec nec nisi in nibh commodo laoreet. Mauris dapibus justo ut feugiat malesuada. Fusce ultricies ante tortor, non vestibulum est feugiat ut.</p>
+                            <p>Leland Tyler Wayne (born September 16, 1993), professionally known as Metro Boomin, is an American record producer, record executive, songwriter, and DJ. Raised in St. Louis, Wayne began a production career while in high school and became known for his successful recordings with Atlanta hip hop and trap artists such as Future, 21 Savage, Gucci Mane, and Migos in the mid-2010s. In 2017, Forbes called him "easily one of the most in-demand hitmakers in the world," while Stereogum described him as "one of the most original, vivid, important voices in rap right now."</p>
+                            <p>This is an example of his works:</p>
                         </div>
-                        <div class="artist_sig"><img src="images/ttc1.jpg" alt=""></div>
+
                         <div class="single_player_container d-flex flex-column align-items-start justify-content-center">
                             <div class="single_player">
                                 <div id="jplayer_2" class="jp-jplayer"></div>
@@ -290,9 +286,8 @@
                         <div class="extra_content d-flex flex-column align-items-start justify-content-center">
                             <div class="extra_title"><h1>Get your tickets now!</h1></div>
                             <div class="extra_text">
-                                <p>In vitae nisi aliquam, scelerisque leo a, volutpat sem. Vivamus rutrum dui fermentum eros hendrerit, id lobortis leo volutpat. Maecenas sollicitudin est in libero pretium interdum</p>
                             </div>
-                            <div class="extra_button"><a href="#">Buy Now</a></div>
+                            <div class="extra_button"><a href="https://www.kvitki.by/rus/bileti/festival/">Buy Now</a></div>
                         </div>
                     </div>
                 </div>

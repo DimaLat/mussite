@@ -131,9 +131,9 @@ $(document).ready(function()
 			$("#jplayer_2").jPlayer({
 				ready: function () {
 					$(this).jPlayer("setMedia", {
-						title:"Dubstep",
-						artist:"Bensound",
-						mp3:"files/praisethelord.mp3",
+						title:"ASAP Forever",
+						artist:"ASAP Rocky",
+						mp3:"files/forever.mp3",
 					});
 				},
 				play: function() { // To avoid multiple jPlayers playing together.
@@ -158,37 +158,7 @@ $(document).ready(function()
 			});
 		}
 
-		if($("#jplayer_3").length)
-		{
-			$("#jplayer_3").jPlayer({
-				ready: function () {
-					$(this).jPlayer("setMedia", {
-						title:"Sunny",
-						artist:"Bensound",
-						mp3:"files/praisethelord.mp3",
-					});
-				},
-				play: function() { // To avoid multiple jPlayers playing together.
-					$(this).jPlayer("pauseOthers");
-				},
-				swfPath: "plugins/jPlayer",
-				supplied: "mp3",
-				cssSelectorAncestor: "#jp_container_3",
-				wmode: "window",
-				globalVolume: true,
-				useStateClassSkin: true,
-				autoBlur: false,
-				smoothPlayBar: true,
-				keyEnabled: true,
-				solution: 'html',
-				preload: 'metadata',
-				volume: 0.2,
-				muted: false,
-				backgroundColor: '#000000',
-				errorAlerts: false,
-				warningAlerts: false
-			});
-		}	
+
 	}
 
 	/* 
@@ -206,3 +176,16 @@ $(document).ready(function()
 	}
 
 });
+
+
+
+
+
+
+
+
+
+
+
+
+

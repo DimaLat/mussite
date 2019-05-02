@@ -604,6 +604,7 @@ section
 
 .home
 {
+
 	width: 100%;
 	height: 384px;
 	padding-left: 51px;
@@ -641,9 +642,13 @@ section
 /*********************************
 6. Contact
 *********************************/
-
+.contact_info
+{
+	margin-top: 2000px;
+}
 .contact
 {
+
 	padding-top: 101px;
 	padding-bottom: 105px;
 }
@@ -726,6 +731,7 @@ section
 }
 .contact_button
 {
+
 	width: 173px;
 	height: 50px;
 	background: #de4f32;
@@ -762,6 +768,7 @@ section
 }
 .contact_info_list ul li:not(:last-of-type)
 {
+
 	margin-bottom: 24px;
 }
 .contact_info_list ul li > div:first-child > div

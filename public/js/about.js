@@ -99,8 +99,8 @@ $(document).ready(function()
 			$("#jplayer_2").jPlayer({
 				ready: function () {
 					$(this).jPlayer("setMedia", {
-						title:"Better Days",
-							artist:"Bensound",
+						title:"A$AP Rocky",
+							artist:"Praise the lord",
 							mp3:"files/praisethelord.mp3"
 					});
 				},
